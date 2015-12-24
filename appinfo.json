@@ -1,0 +1,26 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "foofboy",
+    "longName": "Dozenal Watchface",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/Verdanab.ttf",
+                "name": "FONT_VERDANA_BOLD_42",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Dozenal Watchface",
+    "uuid": "7882162c-4679-46d0-905e-ed8cd6ccd16e",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
