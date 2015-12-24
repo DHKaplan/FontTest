@@ -9,6 +9,11 @@
     "resources": {
         "media": [
             {
+                "file": "images/Verdana.png",
+                "name": "IMAGE_FONT_ADD",
+                "type": "png"
+            },
+            {
                 "file": "fonts/Verdanab.ttf",
                 "name": "FONT_VERDANA_BOLD_42",
                 "type": "font"
